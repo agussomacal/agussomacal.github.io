@@ -53,8 +53,8 @@ interests:
 education:
   - area: PhD in Mathematics
     institution: Sorbonne Université
-    date_start: 2020-10-01
-    date_end: 2024-05-06
+    date_start: '2020-10-01'
+    date_end: '2024-05-06'
     summary: |
       Model reduction for forward simulation and inverse problems: towards non-linear approaches. 
       Supervised by [Prof Albert Cohen](https://archive.wikiwix.com/cache/index2.php?url=https%3A%2F%2Fwww.ljll.math.upmc.fr%2Fcohen%2F) and [Prof Olga Mula](https://omula.gitlab.io/).
@@ -70,8 +70,8 @@ education:
       Supervised by [Prof Ariel Chernomoretz](https://scholar.google.com/citations?user=O19Ub0MAAAAJ&hl=es)
   - area: Bachelor in Physics (6.5 years program)
     institution: University of Buenos Aires
-    date_start: 2012-03-01
-    date_end: 2018-11-09
+    date_start: '2012-03-01'
+    date_end: '2018-11-09'
     summary: |
       GPA: 9.74/10
 #      Courses included:
@@ -83,8 +83,8 @@ work:
     company_name: Sorbonne Université, Laboratoire Jacques-Louis Lions
     company_url: ''
     company_logo: ''
-    date_start: 2020-01-11
-    date_end: 2020-09-31
+    date_start: '2020-01-11'
+    date_end: '2020-09-31'
     summary: |
       Forward reduce modelling and inverse problems
   - position: Data scientist
