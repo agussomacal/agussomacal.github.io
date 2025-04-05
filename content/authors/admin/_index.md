@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Agustín Somacal
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Agustin
+last_name: Somacal
 
 # Status emoji
 status:
@@ -20,25 +20,23 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: École centrale de Nantes
+    url: https://www.ec-nantes.fr/english-version
+  - name: Nantes Universié
+    url: https://www.univ-nantes.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:agustin.somacal@ec-nantes.fr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/agussomacal
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -47,65 +45,59 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Scientific Machine Learning
+  - Reduce Order Model
+  - Gradient optimization
+  - Optimal sampling
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Mathematics
+    institution: Sorbonne Université
+    date_start: 2020-10-01
+    date_end: 2024-05-06
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Model reduction for forward simulation and inverse problems: towards non-linear approaches. 
+      Supervised by [Prof Albert Cohen](https://archive.wikiwix.com/cache/index2.php?url=https%3A%2F%2Fwww.ljll.math.upmc.fr%2Fcohen%2F) and [Prof Olga Mula](https://omula.gitlab.io/).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://theses.hal.science/tel-04646204'
+  - area: Master in Physics
+    institution: University of Buenos Aires
+    date_start: 2017
+    date_end: 2018
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Integration of information in biological networks
+      Supervised by [Prof Ariel Chernomoretz](https://scholar.google.com/citations?user=O19Ub0MAAAAJ&hl=es)
+  - area: Bachelor in Physics (6.5 years program)
+    institution: University of Buenos Aires
+    date_start: 2012-03-01
+    date_end: 2018-11-09
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 9.74/10
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research engineer
+    company_name: Sorbonne Université, Laboratoire Jacques-Louis Lions
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-01-11
+    date_end: 2020-09-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Forward reduce modelling and inverse problems
+  - position: Data scientist
+    company_name: Aritas
+    company_url: 'https://www.aristas.com.ar/'
+    company_logo: ''
+    date_start: 2016
+    date_end: 2019
+    summary: |2-
+#      Responsibilities include:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
