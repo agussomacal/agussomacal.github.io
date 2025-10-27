@@ -6,7 +6,7 @@ title: Agustín Somacal
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Agustin
+first_name: Agustín
 last_name: Somacal
 
 # Status emoji
@@ -51,7 +51,7 @@ interests:
   - Optimal sampling
 
 education:
-  - area: PhD in Mathematics
+  - area: PhD in applied mathematics
     institution: Sorbonne Université
     date_start: '2020-10-01'
     date_end: '2024-05-06'
@@ -84,7 +84,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: '2020-01-11'
-    date_end: '2020-09-31'
+    date_end: 2020
     summary: |
       Forward reduce modelling and inverse problems
   - position: Data scientist
@@ -106,15 +106,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: C++
         description: ''
-        percent: 40
+        percent: 50
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -122,9 +122,9 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
-      - name: Cats
+      - name: Tai Chi Chuan
         description: ''
         percent: 100
         icon: cat
