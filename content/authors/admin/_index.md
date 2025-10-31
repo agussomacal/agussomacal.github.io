@@ -40,14 +40,14 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=qCuaX-oAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-0971-470X
 
 interests:
   - Scientific Machine Learning
-  - Reduce Order Model
-  - Gradient optimization
+  - Reduce Order Modelling
+  - Optimization
   - Optimal sampling
 
 education:
@@ -128,18 +128,22 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Writing
         description: ''
         percent: 80
-        icon: camera
+        icon: pen
 
 languages:
-  - name: English
+  - name: Spanish
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 90
+  - name: French
+    percent: 90
+  - name: Italian
+    percent: 70
+  - name: Arabic
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
