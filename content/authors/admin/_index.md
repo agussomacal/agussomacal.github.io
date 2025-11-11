@@ -130,7 +130,7 @@ skills:
         icon: cat
       - name: Writing
         description: ''
-        percent: 80
+        percent: 100
         icon: pen
 
 languages:

@@ -1,16 +1,17 @@
 ---
 title: "An example journal article"
 authors:
+- Albert Cohen
+- Olga Mula
 - admin
-- Robert Ford
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2025-03-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-03-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,25 +19,25 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*ESAIM: Mathematical Modelling and Numerical Analysis*"
+publication_short: "ESAIM-M2AN"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We consider the problem of recovering characteristic functions u := χΩ from cell-average data on a coarse grid, and where Ω is a compact set of Rd. This task arises in very different contexts such as image processing, inverse problems, and the accurate treatment of interfaces in finite volume schemes. While linear recovery methods are known to perform poorly, nonlinear strategies based on local reconstructions of the jump interface Γ := ∂Ω by geometrically simpler interfaces may offer significant improvements. We study two main families of local reconstruction schemes, the first one based on nonlinear least-squares fitting, the second one based on the explicit computation of a polynomial- shaped curve fitting the data, which yields simpler numerical computations and high order geometric fitting. For each of them, we derive a general theoretical framework which allows us to control the recovery error by the error of best approximation up to a fixed multiplicative constant. Numerical tests in 2d illustrate the expected approximation order of these strategies. Several extensions are discussed, in particular the treatment of piecewise smooth interfaces with corners.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Cell averages / inverse problems / geometric interfaces / subcell resolution
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.esaim-m2an.org/articles/m2an/pdf/2025/02/m2an240052.pdf
+url_code: 'https://github.com/agussomacal/SubCellResolution'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://github.com/agussomacal/SubCellResolution/blob/master/Posters/SubCell_Poster_Khipu.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
