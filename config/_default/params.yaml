@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: indigo
 
 # SEO
 marketing:
@@ -30,12 +30,12 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
+    block: 'navbar'
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Agustín Somacal"
+      text: 'Agustín Somacal'
 
 # Site footer
 footer:
@@ -49,12 +49,12 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'Nov 11, 2025'
+  time_format: '16:04 PM'
 
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true

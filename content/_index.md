@@ -1,45 +1,40 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Agustin Somacal"
-date: 2025-04-05
+title: 'Title'
+date: 2022-10-24
 type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: '6rem'
 
 sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
+      headings:
+        about: ''
+        education: ''
+        interests: ''
     design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+      # Apply a gradient background
+      css_class: hbx-bg-gradient
+      # Avatar customization
+      avatar:
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My research currently focuses on developing accelerated version of Natural Gradient Descent specially in the context of Scientific Machine Learning and Non-linear Reduced Order Modelling.
     design:
       columns: '1'
   - block: collection
@@ -48,7 +43,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - publications
         featured_only: true
     design:
       view: article-grid
@@ -56,10 +51,10 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: ""
+      text: ''
       filters:
         folders:
-          - publication
+          - publications
         exclude_featured: false
     design:
       view: citation
@@ -69,10 +64,9 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          - events
     design:
-      view: article-grid
-      columns: 1
+      view: card
   - block: collection
     id: news
     content:
@@ -80,25 +74,25 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
       filters:
-        author: ""
-        category: ""
-        tag: ""
+        author: ''
+        category: ''
+        tag: ''
         exclude_featured: false
         exclude_future: false
         exclude_past: false
-        publication_type: ""
+        publication_type: ''
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: card
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
@@ -112,7 +106,7 @@ sections:
         <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
 
         Easily build anything with blocks - no-code required!
-        
+
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
       button:
         text: Get Started
@@ -120,6 +114,6 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+        css_class: 'bg-primary-300 dark:bg-primary-700'
+        css_style: ''
 ---
