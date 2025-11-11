@@ -235,6 +235,38 @@
     </item>
     
     <item>
+      <title>High Order Recovery of Geometric Interfaces from Cell-Average Data</title>
+      <link>http://localhost:1313/publication/cohen-high-order-recovery-2025/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cohen-high-order-recovery-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Reduction for Forward Simulation and Inverse Problems : Towards Non-Linear Approaches</title>
+      <link>http://localhost:1313/publication/somacal-tel-04646204/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/somacal-tel-04646204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Order Recovery of Geometric Interfaces from Cell-Average Data</title>
+      <link>http://localhost:1313/publication/cohen-high-order-recovery-2024/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cohen-high-order-recovery-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State Estimation of Urban Air Pollution with Statistical, Physical, and Super-Learning Graph Models</title>
+      <link>http://localhost:1313/publication/dolbeault-state-estimation-urban-2024-a/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dolbeault-state-estimation-urban-2024-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
       <link>http://localhost:1313/blog/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -1105,7 +1137,7 @@ CC-0
 
 
 
-&lt;div id=&#34;chart-615872349&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-327561489&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1123,7 +1155,7 @@ CC-0
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-615872349&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-327561489&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -2543,6 +2575,54 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Nonlinear Compressive Reduced Basis Approximation for PDE&#39;s</title>
+      <link>http://localhost:1313/publication/cohen-nonlinear-compressive-reduced-2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cohen-nonlinear-compressive-reduced-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced Order Modeling for Elliptic Problems with High Contrast Diffusion Coefficients</title>
+      <link>http://localhost:1313/publication/cohen-reduced-order-modeling-2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cohen-reduced-order-modeling-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning-Based Schemes for Singularly Perturbed Convection-Diffusion Problems</title>
+      <link>http://localhost:1313/publication/beguinet-deep-learningbased-schemes-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/beguinet-deep-learningbased-schemes-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Approximation Spaces for Inverse Problems</title>
+      <link>http://localhost:1313/publication/cohen-nonlinear-approximation-spaces-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cohen-nonlinear-approximation-spaces-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering Differential Equations from Data with Hidden Variables</title>
+      <link>http://localhost:1313/publication/somacal-uncovering-differential-equations-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/somacal-uncovering-differential-equations-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering High Dimensional Meteorological Scenarios: Results and Performance Index</title>
+      <link>http://localhost:1313/publication/barrera-clustering-high-dimensional-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barrera-clustering-high-dimensional-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>http://localhost:1313/publications/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -2600,6 +2680,14 @@ Parallel 4   :         des6, after des4, 1d
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
 .&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Anhysteretic Remanent Magnetization: Model of Grain Size Distribution of Spherical Magnetite Grains</title>
+      <link>http://localhost:1313/publication/vasquez-anhysteretic-remanent-magnetization-2018-a/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vasquez-anhysteretic-remanent-magnetization-2018-a/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -15,5 +15,5 @@ publishDate: '2025-11-11T20:08:15.176986Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Approximate Reasoning*'
-doi: 10.1016/j.ijar.2021.08.007
+hugoblox.ids: {doi: 10.1016/j.ijar.2021.08.007}
 ---
