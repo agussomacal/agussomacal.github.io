@@ -63,8 +63,8 @@ education:
       url: 'https://theses.hal.science/tel-04646204'
   - area: Master in Physics
     institution: University of Buenos Aires
-    date_start: 2017
-    date_end: 2018
+    date_start: '2017-10-01'
+    date_end: '2018-11-09'
     summary: |
       Integration of information in biological networks
       Supervised by [Prof Ariel Chernomoretz](https://scholar.google.com/citations?user=O19Ub0MAAAAJ&hl=es)
@@ -84,15 +84,15 @@ work:
     company_url: ''
     company_logo: ''
     date_start: '2020-01-11'
-    date_end: 2020
+    date_end: '2020-09-30'
     summary: |
       Forward reduce modelling and inverse problems
   - position: Data scientist
     company_name: Aritas
     company_url: 'https://www.aristas.com.ar/'
     company_logo: ''
-    date_start: 2016
-    date_end: 2019
+    date_start: '2016-09-01'
+    date_end: '2019-12-31'
     summary: |2-
 #      Responsibilities include:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit

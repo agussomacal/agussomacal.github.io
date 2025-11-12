@@ -14,9 +14,9 @@
   <url>
     <loc>http://localhost:1313/courses/hugo-blox/guide/configuration/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/events/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/events/2025mortech/</loc><lastmod>2025-11-12T12:54:14+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/events/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/events/</loc><lastmod>2025-11-12T12:54:14+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/course/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -135,6 +135,8 @@
     <loc>http://localhost:1313/publications/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publication_types/paper-conference/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/example_content_index/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/button/</loc><changefreq>weekly</changefreq></url>
   <url>
