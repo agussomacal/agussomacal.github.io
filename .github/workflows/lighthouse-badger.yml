@@ -50,7 +50,7 @@ jobs:
         with:
           repository: ${{ env.REPOSITORY }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          ref: ${{ env.BRANCH }}
+          ref: ${{ env.REPO_BRANCH }}
       - uses: actions/checkout@v7
         with:
           repository: "myactionway/lighthouse-badges"
